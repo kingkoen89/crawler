@@ -6,7 +6,7 @@ Latest versions of npm and node.
 
 ## Usage
 ```
-git clone https://github.com/kingkoen89/crawler.git
+git clone https://github.com/koenae/crawler.git
 ```
 ```
 npm install
